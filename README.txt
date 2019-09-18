@@ -51,13 +51,5 @@ To generate the ROM using Windows:
 4) If everything will go without errors or warnings, then you will get the a.*.rom file.
 5) Copy generated a.*.rom into root of SD card along with the Arcade-*.rbf file
 
-To generate the ROM using Linux/MacOS:
-1) Copy the zip into "releases" directory
-2) Execute build_rom.sh
-3) Copy generated a.*.rom into root of SD card along with the Arcade-*.rbf file
 
-To generate the ROM using MiSTer:
-1) scp "releases" directory along with the zip file onto MiSTer:/media/fat/
-2) Using OSD execute build_rom.sh
-3) Copy generated a.*.rom into root of SD card along with the Arcade-*.rbf file
-
+To generate the ROM using Linux/MacOS/MiSTer is in preparation.
