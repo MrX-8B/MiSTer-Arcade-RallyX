@@ -66,3 +66,4 @@ To generate the ROM using MiSTer:
 2) Using OSD execute build_rom.sh
 3) Copy generated a.*.rom into root of SD card along with the Arcade-*.rbf file
 
+[EOF]
